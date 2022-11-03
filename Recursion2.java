@@ -6,7 +6,7 @@ public class Recursion2 {
         } else if(n == m) {
             return 2;
         }
-  
+   
         return placeTiles(n-1, m) + placeTiles(n-m, m);
     }
   
