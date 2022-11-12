@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Hello! My name is Nikhil Singh.
 
 I'm currently doing B.Tech in Comouter Science.
 
 I like to read and play football.
+=======
+Hello! My name is Nikhil Singh.
+>>>>>>> parent of d5831be (Second commit)
